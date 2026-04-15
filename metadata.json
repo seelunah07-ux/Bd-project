@@ -1,6 +1,0 @@
-{
-  "name": "Gestion des Bénéficiaires de Formation",
-  "description": "Application complète pour la gestion, le filtrage et l'exportation des bénéficiaires de formation avec validation admin.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
